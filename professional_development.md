@@ -1,9 +1,9 @@
 ---
-title: Landing
-layout: landing
+title: Professional Development
+layout: professional_development
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 <!-- Main -->

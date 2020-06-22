@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Elements
-nav-menu: false
+layout: contact
+title: Contact
+nav-menu: true
 ---
 
 <!-- Main -->
